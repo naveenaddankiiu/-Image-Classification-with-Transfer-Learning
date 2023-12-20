@@ -1,5 +1,7 @@
 # Image-Classification-with-Transfer-Learning
 
+used data set : https://www.kaggle.com/datasets/hasibalmuzdadid/shoe-vs-sandal-vs-boot-dataset-15k-images
+
 **PROJECT DESCRIPTION:**
 Implemented an image classification project using transfer learning. The project involved the following key steps:
 
